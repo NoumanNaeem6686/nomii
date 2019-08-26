@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+}
+#outer{
+    height: 100vh;
+    width: 100vw;
+    /* background-color:blue; */
+
+}
+#outer_first{
+    width: 100vw;
+    height: 11vh;
+    background-color: rgb(27, 24, 24);
+}
+.img{
+    background-image: url('E:\\Gamica work and books\\1st session\\logo-small-web2.png');
+    height: 63px;
+    width: 192px;
+    position: relative;
+    left: 50px;
+   
+}
+/* navigation start */
+.container-fluid{width: 100%;
+	height: 40px;
+    background:dodgerblue;
+    border-radius: 7px;
+}
+.container{width: 80%;
+	float: none;
+    margin: 0px auto;
+    position: relative;
+    left: -150px;	
+}
+.nav{width: 100%;
+	float: none
+	margin: 0px auto;
+}
+.nav ul{list-style: none;
+}
+.nav ul li{ width: 150px;
+	height: 40px;
+	display: inline-block;
+	line-height: 40px;
+	margin-right: 10px;
+	float: left;
+	transition: 1s;
+	text-align: center;
+ }
+ .nav ul li a{text-decoration: none;
+ 	color: black;
+}
+.nav ul li:hover{background: dimgrey;
+	/* border-left: 8px solid black;	
+	transition: 1s; */
+}
+.text{color: white;
+}
+.inner{width: 70%;
+	height: 100%;
+	float: none;
+	margin: 0px auto;
+	top: 350px;
+}
+.empty{width: 100%;
+	height: 300px;
+}
+.main{width: 250px;
+	height: 250px;
+	position: relative;
+	background:rgb(47, 120, 180);
+}
+.mini-box{width: 100px;
+	height: 100px;
+	position: absolute;
+	background:green;
+	top: 80px;
+	left:80px;
+}
+#image{
+    position: relative;
+    top: -320px;
+    left: 450px;
+}
+#third{
+    width: 100%;
+    height: 70vh;
+    /* background-color: darkslategray; */
+    background-image: url('E:\\Gamica work and books\\1st session\\webappsdesign1.png');
+    background-repeat: no-repeat;
+
+}
+#three_sections{
+    width: 100%;
+    height: 50%;
+    background-color: darkorchid;
+    position: relative;
+    top: -100px;
+}
+#fourth{
+    height:170px;
+    width: 300px;
+    background-color: darkorange;
+    position: relative;
+    top: -370px;
+    left: 100px;
+    border-radius: 5px;
+}
+#fifth{
+    height:170px;
+    width: 300px;
+    background-color: darkolivegreen;
+    position: relative;
+    top: -540px;
+    left: 518px;
+    border-radius: 5px;
+
+}
+#six{
+    height:170px;
+    width: 300px;
+    background-color: darkblue;
+    position: relative;
+    top: -710px;
+    left: 919px;
+    border-radius: 5px;
+
+}
+.text{
+    font-size: 20px;
+    color: cyan;
+    font-family:Arial, Helvetica, sans-serif;
+    /* margin-left: 10px; */
+    position: relative;
+    left: 15px;
+    top: 15px;
+    
+}
+.four_inner{
+    height: 110px;
+    width: 110px;
+    background-color: crimson;
+    position: relative;
+    left: 180px;
+    top: 5px;
+    border-radius: 5px;
+    background-image: url('E:\\Gamica work and books\\1st session\\downloadssss.png');
+    background-repeat: no-repeat;
+
+}
+#last{
+    height: 200px;
+     width: 300px;
+     background-color: blue;
+     position: relative;
+     top: -200px;
+     left: 100px;
+     border-radius: 5px;
+
+}
+#last_last{
+    height: 200px;
+    width: 700px;
+    background-color: blue;
+    position: relative;
+    top: -400px;
+    left: 520px;
+    border-radius: 5px;
+
+}

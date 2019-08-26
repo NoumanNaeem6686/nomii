@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .main{
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+    position: relative;
+} */
+/* .highway{
+    height: 200px;
+    width: 500%;
+    /* display: block; */
+    /* background-image: url('WhatsAppimage1.jpeg');
+    animation: highway 5s linear infinite;
+    background-repeat: repeat-x; */
+    /* position: relative; */ 
+
+}
+/* @keyframes highway
+{
+    100%{
+        transform: translateX(-2000px);
+    }
+
+}
+.car{
+    width: 300px;
+    left: 30%;
+    bottom: 100px;
+    transform: translateX(-50%);
+    position: absolute;
+} */
+/* #carr{
+    height: 100px;
+    width: 100px;
+} */
